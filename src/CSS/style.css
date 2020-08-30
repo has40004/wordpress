@@ -25,7 +25,7 @@ html{
 }
 .logo #logo_text{
     color: #ffffff;
-    /* font-family: Roboto; */
+   
     font-size: 15px;
     font-weight: 500;
     line-height: 24px;
@@ -38,7 +38,7 @@ h1{
 }
 .title{
     color: #f9bf3b;
-    /* font-family: "Roboto - Black"; */
+   
     font-size: 41px;
     font-weight: 400;
     line-height: 24px;
@@ -51,7 +51,7 @@ h2.title{
 }
 .simple .title_big{
     color: #ffffff;
-    /* font-family: "Roboto "; */
+    
     font-size: 80px;
     font-weight: 400;
     text-transform: uppercase;
@@ -65,14 +65,13 @@ h2.title{
     font-size: 21px;
     font-weight: 300;
     line-height: 28px;
-    /* Text style for "Ежедневно" */
-    /* font-family: "Roboto Light"; */
+    
     font-weight: 300;
     text-align: center;
 }
 .promo .promo_text span{
     color: #f9bf3b;
-    /* font-family: "Roboto - Bold"; */
+    
     font-weight: 700;
 }
 .promo .promo_btn{
@@ -85,7 +84,7 @@ h2.title{
     background-image: linear-gradient(to top, #2798b9 0%, #3ab6da 100%);
     text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.22);
     color: #ffffff;
-    /* font-family: "Roboto Condensed"; */
+    
     font-size: 21px;
     font-weight: 400;
     line-height: 24px;
@@ -99,7 +98,7 @@ h2.title{
 
 .more .more_text{
     color: #ffffff;
-    /* font-family: "Roboto - Thin"; */
+    
     font-size: 15px;
     font-weight: 400;
     text-transform: uppercase;
@@ -120,7 +119,7 @@ h2.title{
 
 .waiting .waiting_header , .finish .finish_header{
     color: #252525;
-    /* font-family: Roboto; */
+   
     font-size: 30px;
     font-weight: 400;
     text-transform: uppercase;
@@ -140,7 +139,7 @@ h2.title{
 
 .waiting .waiting_supheader{
     color: #4a4a4a;
-    /* font-family: Roboto; */
+    
     font-size: 23px;
     font-weight: 400;
     text-align: center;
@@ -161,7 +160,7 @@ h2.title{
 .waiting .waiting_wrapper .waiting_item .waiting_descr{
     margin-top: 33px;
     color: #4a4a4a;
-    /* font-family: Roboto; */
+   
     font-size: 15px;
     font-weight: 300;
     line-height: 21px;
@@ -175,7 +174,7 @@ h2.title{
 .optimization .optimization_header{
     margin-left: 391px;
     color: #299cbd;
-    /* font-family: "Roboto - Black"; */
+    
     font-size: 30px;
     font-weight: 400;
     text-transform: uppercase;
@@ -187,12 +186,12 @@ h2.title{
     font-size: 17px;
     font-weight: 300;
     line-height: 27px;
-    /* font-family: "Roboto Light"; */
+    
     font-weight: 300;
 }
 
 .optimization .optimization_text span{
-    /* font-family: "Roboto - Bold"; */
+    
     font-weight: 700;
 }
 .optimization .optimization_img{
@@ -234,7 +233,7 @@ h2.title{
     margin-top: 25px;
     text-align: center;
     color: #efefef;
-    /* font-family: Roboto; */
+    
     font-size: 17px;
     font-weight: 300;
     line-height: 20px;
@@ -254,7 +253,7 @@ justify-content: center;
     padding: 42px 0 52px 0 ;
     text-align: center;
     color: #252525;
-    /* font-family: Roboto; */
+    
     font-size: 30px;
     font-weight: 400;
 }
@@ -269,7 +268,6 @@ justify-content: center;
      background-image: linear-gradient(to top, #2798b9 0%, #3ab6da 100%);
      text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.22);
     color: #ffffff;
-    /* font-family: "Roboto Condensed"; */
     font-size: 21px;
     font-weight: 400;
     text-transform: uppercase;
@@ -291,7 +289,7 @@ justify-content: center;
      margin-top: 37px;
      text-align: center;
      color: #252525;
-    /* font-family: Roboto; */
+    
     font-size: 30px;
     font-weight: 400;
     line-height: 12px;
@@ -302,7 +300,7 @@ justify-content: center;
      margin-top: 30px;
      text-align: center;
      color: #299cbd;
-    /* font-family: "Roboto - Black"; */
+  
     font-size: 36px;
     font-weight: 400;
     line-height: 12px;
@@ -313,7 +311,7 @@ justify-content: center;
      margin-top: 25px;
      text-align: center;
      color: #4a4a4a;
-    /* font-family: Roboto; */
+    
     font-size: 23px;
     font-weight: 400;
     line-height: 20px;
@@ -331,7 +329,7 @@ justify-content: center;
     width: 377px;
     text-align: center;
     color: #888888;
-    /* font-family: Roboto; */
+    
     font-size: 15px;
     font-weight: 300;
     line-height: 21px;
@@ -339,7 +337,7 @@ justify-content: center;
 
 footer a {
     color: #888888;
-    /* font-family: Roboto; */
+    
     font-size: 15px;
     font-weight: 300;
     line-height: 21px;
